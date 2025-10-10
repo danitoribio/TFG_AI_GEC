@@ -1,11 +1,3 @@
-<style>
-.center-image {
-  text-align: center;
-}
-</style>
-
-
-
 # TFG AI applied to Grammar Error Correction
 
 This repository contains the data, code and models used for the Final Degree Project in Data Science and Engeneering.
@@ -14,10 +6,9 @@ The main objective of this work was to build an easily using UI for correcting g
 
 ### Workflow of the project
 
-<div class="center-image">
+<p align="center">
   <img src="images/workflow.png" alt="Workflow" width="500">
-
-</div>
+</p>
 
 ### How to execute
 
@@ -25,5 +16,3 @@ Ensure requirements are installed and then run:
 
 ```shell
 streamlit run ui.py
-```
-
